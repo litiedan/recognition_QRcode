@@ -1,0 +1,3 @@
+/home/mr/cam_file/recognition_QRcode/videoQR/build/CMakeFiles/rebuild_cache.dir
+/home/mr/cam_file/recognition_QRcode/videoQR/build/CMakeFiles/qr_video.dir
+/home/mr/cam_file/recognition_QRcode/videoQR/build/CMakeFiles/edit_cache.dir
